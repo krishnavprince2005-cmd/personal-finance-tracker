@@ -46,12 +46,10 @@ trend_chart.png → Income vs Expense trend chart
 ## How to Run the Project
 
 1. Clone this repository
-https://github.com/krishnavprince2005-cmd/my-first-repo
-
-2. Open project folder
-
-3. Run the program
-
+   
+2.https://github.com/krishnavprince2005-cmd/personal-finance-tracker
+3. Open project folder
+4. Run the program
 python main.py
 
 ## Purpose of the Project
