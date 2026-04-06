@@ -9,7 +9,12 @@ A Personal Finance Tracker built using Python, SQLite, and Matplotlib to help us
 - Store financial data using SQLite database
 - View financial summaries
 - Visualize spending patterns using charts (Matplotlib)
-
+- Set monthly category budgets
+- Budget exceeded warning alerts
+- Export financial data to Excel
+- Monthly summary report
+- Yearly summary report
+- Manage expense categories
 ## Technologies Used
 
 - Python
