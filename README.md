@@ -46,6 +46,18 @@ This project was created to improve my skills in:
 - Database management using SQLite
 - Data visualization using Matplotlib
 - Git and GitHub version control
+  
+## Application Dashboard
+
+![Dashboard](dashboard.png)
+
+## Expense Category Chart
+
+![Expense Chart](expense_chart.png)
+
+## Monthly Income vs Expense Trend
+
+![Trend Chart](trend_chart.png)
 
 ## Author
 
