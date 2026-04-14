@@ -61,7 +61,15 @@ This project was created to improve my skills in:
 - Data visualization using Matplotlib
 - GUI development using Tkinter
 - Git and GitHub version control
+  
+## Future Improvements
 
+- Add secure user authentication system (login/signup)
+- Integrate cloud database support (AWS / Firebase / Azure)
+- Deploy as a web-based application
+- Add data encryption for enhanced security
+- Implement dashboard analytics with advanced visualizations
+  
 ## Author
 
 Krishna Vilayil Prince  
